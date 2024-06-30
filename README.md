@@ -2,8 +2,6 @@
 
 ---
 
-# HomeHeaven
-
 ## Project Overview.
 This project is a MERN Stack web application for food delivery built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to browse restaurants, view menus, place orders, and manage their accounts.
 
