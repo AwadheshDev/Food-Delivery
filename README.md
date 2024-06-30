@@ -7,7 +7,7 @@ This project is a MERN Stack web application for food delivery built using the M
 
 ## Authors
    **Training project :- Food Delivery Website**
-   
+   Course:B.C.A. Semester:4
 - **Awadhesh Kumar**
 - **Ansh Gupta**
 - **Anshika Shukla**
