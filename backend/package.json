@@ -4,8 +4,8 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "server": "nodemon server.js",
-    "postinstall": "prisma generate"
+    "server": "nodemon server.js"
+    
   },
   "author": "",
   "license": "ISC",
