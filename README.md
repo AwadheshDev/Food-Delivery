@@ -57,14 +57,9 @@ Ensure you have the following installed:
 
 ### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/rishabhgupta2004/HOMEHEAVEN.git
-   cd homeheaven
-   git clone https://github.com/Deepanshishukla24/HOMEHEAVEN.git
    ```
 
-2. Install the dependencies for both the client and server:
+1. Install the dependencies for both the client and server:
    ```bash
    cd client
    npm install
@@ -72,7 +67,7 @@ Ensure you have the following installed:
    npm install
    ```
 
-3. Set up environment variables:
+2. Set up environment variables:
 
    Create a `.env` file in the `server` directory and add your MongoDB URI and JWT secret:
 
@@ -110,7 +105,7 @@ Ensure you have the following installed:
 
 ## Contributing
 
-We welcome contributions to HomeHeaven! Please follow these steps:
+We welcome contributions to Food Delivery Website! Please follow these steps:
 
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature-branch`)
